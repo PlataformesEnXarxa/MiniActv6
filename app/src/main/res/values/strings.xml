@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiniActivitat6</string>
+    <string name="helloFirebase">Hello, Firebase!</string>
+    <string name="warningTxtEmpty">Introduce TEXT please!!!</string>
+    <string name="regFail">REGISTER FAILED</string>
+    <string name="regSuc">REGISTER SUCCESFUL</string>
+    <string name="write_text_here">Write text here</string>
+    <string name="send">SEND</string>
+    <string name="write_default_greeting_message_to_realtime_db">Write default greeting message to realtime DB</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+</resources>

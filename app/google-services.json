@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "654379878738",
+    "firebase_url": "https://miniactivitat6-69261.firebaseio.com",
+    "project_id": "miniactivitat6-69261",
+    "storage_bucket": "miniactivitat6-69261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654379878738:android:fd05f72d02a22db2",
+        "android_client_info": {
+          "package_name": "com.project.miniactivities.miniactivitat6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654379878738-630t3n8cb2pf431598uk4p70bmq7voi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj3HzYkd_O38ia2Eh6KEHQc--gxsTSwPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
